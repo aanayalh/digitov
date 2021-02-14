@@ -1,3 +1,4 @@
+#Ahora vamos a crear funciones
 #solo calcula dv nit de 9 digitos
 
 nit=input("Ingrese nit: ")
