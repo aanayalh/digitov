@@ -1,3 +1,5 @@
+#solo calcula dv nit de 9 digitos
+
 nit=input("Ingrese nit: ")
 
 mtr1=int(nit[0])*41
